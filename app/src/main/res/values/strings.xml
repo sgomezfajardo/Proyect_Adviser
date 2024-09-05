@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project Selector</string>
+    <string name="find_intervention">Find Intervention!</string>
+    <string name="no_selection">No interventions selected</string>
+    <string name="no_details">No details available</string>
+
+    <!-- Tipos de proyectos -->
+    <string-array name="project_types">
+        <item>Infraestructura</item>
+        <item>Recreación</item>
+        <item>Necesidades</item>
+    </string-array>
+</resources>
